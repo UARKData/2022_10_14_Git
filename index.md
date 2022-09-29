@@ -112,7 +112,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <table>
 <table class="table table-striped">
 <tr> <td>Oct. 14, 2022 9:00-12:00pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
-<a id = "s_lc_event_7732968" href="https://uark.libcal.com/calendar/Data/Git1014">Version Control with Git</a>
+<a id = "s_lc_event_7732968" ahref="https://uark.libcal.com/calendar/Data/Git1014">Version Control with Git</a>
 <!-- Below is optional element styling  //-->
   <style>
 #s_lc_event_7732968 {
